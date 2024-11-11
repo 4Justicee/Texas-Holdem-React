@@ -1,0 +1,41 @@
+{
+  "setting01": {
+    "showArkadiumLogo":                 1,
+    "showVersionInGame":                0,
+    "clientApi": "msn",
+    "gameMode":                         "SIT_AND_GO",
+    "startMoneys":                      2000,
+    "allowResuming":                    "TRUE",
+    "startingBlind":                    40,
+    "blindIncrement":                   40,
+    "blindIncrementTournamentStyle":    "FALSE",
+    "handsPrBlindIncrement":            7,
+    "minutesPrBlinkdIncrement":         0,
+    "TotalRounds_SitGo":                10,
+    "HandsPrInterstitial":              7,
+    "OpponentsAreSequential":           "TRUE",
+
+    "AiClassList": [
+      {
+        "name":                   "Casual-Pro",
+        "base_logic":             "Casual",
+        "pure_table_card_scale":  35
+      },
+      {
+        "name":                   "Casual-Normal",
+        "base_logic":             "Casual",
+        "pure_table_card_scale":  50
+      },
+      {
+        "name":                   "Casual-Noob",
+        "base_logic":             "Casual",
+        "pure_table_card_scale":  75
+      },
+      {
+        "name":                   "Casual",
+        "base_logic":             "Casual",
+        "pure_table_card_scale":  100
+      }
+    ]
+  }
+}

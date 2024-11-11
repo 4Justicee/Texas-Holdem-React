@@ -1,0 +1,3479 @@
+{
+  "success": 1,
+  "results": [
+    {
+      "FI": "147543881",
+      "event_id": "7549892",
+      "asian_lines": {
+        "updated_at": "1718022078",
+        "key": "#AC#B1#C1#D8#E147543881#F3#I3#",
+        "sp": {
+          "asian_handicap": {
+            "id": "938",
+            "name": "Asian Handicap",
+            "odds": [
+              {
+                "id": "1696083592",
+                "odds": "1.920",
+                "header": "1",
+                "handicap": "-0.5"
+              },
+              {
+                "id": "1696083595",
+                "odds": "1.980",
+                "header": "2",
+                "handicap": "+0.5"
+              }
+            ]
+          },
+          "goal_line": {
+            "id": "10143",
+            "name": "Goal Line",
+            "odds": [
+              {
+                "id": "1696083599",
+                "odds": "1.910",
+                "header": "Over",
+                "name": "2.0, 2.5"
+              },
+              {
+                "id": "1696083602",
+                "odds": "1.990",
+                "header": "Under",
+                "name": "2.0, 2.5"
+              }
+            ]
+          },
+          "alternative_asian_handicap": {
+            "id": "50138",
+            "name": "Alternative Asian Handicap",
+            "odds": []
+          },
+          "alternative_goal_line": {
+            "id": "50139",
+            "name": "Alternative Goal Line",
+            "odds": []
+          },
+          "1st_half_asian_handicap": {
+            "id": "50137",
+            "name": "1st Half Asian Handicap",
+            "odds": [
+              {
+                "id": "1696083603",
+                "odds": "2.100",
+                "header": "1",
+                "handicap": "0.0, -0.5"
+              },
+              {
+                "id": "1696083604",
+                "odds": "1.775",
+                "header": "2",
+                "handicap": "0.0, +0.5"
+              }
+            ]
+          },
+          "1st_half_goal_line": {
+            "id": "50136",
+            "name": "1st Half Goal Line",
+            "odds": [
+              {
+                "id": "1696083605",
+                "odds": "2.125",
+                "header": "Over",
+                "name": "1.0"
+              },
+              {
+                "id": "1696083606",
+                "odds": "1.750",
+                "header": "Under",
+                "name": "1.0"
+              }
+            ]
+          },
+          "alternative_1st_half_asian_handicap": {
+            "id": "50265",
+            "name": "Alternative 1st Half Asian Handicap",
+            "odds": []
+          },
+          "alternative_1st_half_goal_line": {
+            "id": "50266",
+            "name": "Alternative 1st Half Goal Line",
+            "odds": []
+          }
+        }
+      },
+      "goals": {
+        "updated_at": "1718021534",
+        "key": "#AC#B1#C1#D8#E147543881#F3#I6#",
+        "sp": {
+          "goals_over_under": {
+            "id": "981",
+            "name": "Goals Over/Under",
+            "odds": [
+              {
+                "id": "1696083587",
+                "odds": "2.100",
+                "header": "Over",
+                "name": "2.5"
+              },
+              {
+                "id": "1696083589",
+                "odds": "1.727",
+                "header": "Under",
+                "name": "2.5"
+              }
+            ]
+          },
+          "alternative_total_goals": {
+            "id": "10202",
+            "name": "Alternative Total Goals",
+            "odds": [
+              {
+                "id": "1741189770",
+                "odds": "1.071",
+                "header": "Over",
+                "name": "0.5"
+              },
+              {
+                "id": "1741189754",
+                "odds": "1.363",
+                "header": "Over",
+                "name": "1.5"
+              },
+              {
+                "id": "1741189763",
+                "odds": "4.000",
+                "header": "Over",
+                "name": "3.5"
+              },
+              {
+                "id": "1741189767",
+                "odds": "8.000",
+                "header": "Over",
+                "name": "4.5"
+              },
+              {
+                "id": "1741189774",
+                "odds": "17.000",
+                "header": "Over",
+                "name": "5.5"
+              },
+              {
+                "id": "1741189759",
+                "odds": "34.000",
+                "header": "Over",
+                "name": "6.5"
+              },
+              {
+                "id": "1741189765",
+                "odds": "9.000",
+                "header": "Under",
+                "name": "0.5"
+              },
+              {
+                "id": "1741189771",
+                "odds": "3.200",
+                "header": "Under",
+                "name": "1.5"
+              },
+              {
+                "id": "1741189764",
+                "odds": "1.250",
+                "header": "Under",
+                "name": "3.5"
+              },
+              {
+                "id": "1741189773",
+                "odds": "1.083",
+                "header": "Under",
+                "name": "4.5"
+              },
+              {
+                "id": "1741189768",
+                "odds": "1.025",
+                "header": "Under",
+                "name": "5.5"
+              },
+              {
+                "id": "1741189760",
+                "odds": "1.005",
+                "header": "Under",
+                "name": "6.5"
+              }
+            ]
+          },
+          "result_total_goals": {
+            "id": "M10212",
+            "name": "Result / Total Goals",
+            "odds": [
+              {
+                "id": "1741190344",
+                "odds": "3.200",
+                "header": "Over",
+                "name": "1",
+                "handicap": "2.5"
+              },
+              {
+                "id": "1741190355",
+                "odds": "8.000",
+                "header": "Over",
+                "name": "2",
+                "handicap": "2.5"
+              },
+              {
+                "id": "1741190350",
+                "odds": "13.000",
+                "header": "Over",
+                "name": "Draw",
+                "handicap": "2.5"
+              },
+              {
+                "id": "1741190348",
+                "odds": "4.000",
+                "header": "Under",
+                "name": "1",
+                "handicap": "2.5"
+              },
+              {
+                "id": "1741190357",
+                "odds": "8.000",
+                "header": "Under",
+                "name": "2",
+                "handicap": "2.5"
+              },
+              {
+                "id": "1741190352",
+                "odds": "4.000",
+                "header": "Under",
+                "name": "Draw",
+                "handicap": "2.5"
+              }
+            ]
+          },
+          "total_goals_both_teams_to_score": {
+            "id": "50405",
+            "name": "Total Goals/Both Teams to Score",
+            "odds": [
+              {
+                "id": "1741189786",
+                "odds": "2.500",
+                "name": "Over 2.5 & Yes"
+              },
+              {
+                "id": "1741189787",
+                "odds": "9.000",
+                "name": "Over 2.5 & No"
+              },
+              {
+                "id": "1741189789",
+                "odds": "6.500",
+                "name": "Under 2.5 & Yes"
+              },
+              {
+                "id": "1741189785",
+                "odds": "2.200",
+                "name": "Under 2.5 & No"
+              }
+            ]
+          },
+          "exact_total_goals": {
+            "id": "M10203",
+            "name": "Exact Total Goals",
+            "odds": []
+          },
+          "number_of_goals_in_match": {
+            "id": "10536",
+            "name": "Number of Goals In Match",
+            "odds": [
+              {
+                "id": "1741190887",
+                "odds": "3.200",
+                "name": "Under 2 goals"
+              },
+              {
+                "id": "1741190888",
+                "odds": "1.952",
+                "name": "2 or 3 goals"
+              },
+              {
+                "id": "1741190886",
+                "odds": "4.000",
+                "name": "Over 3 goals"
+              }
+            ]
+          },
+          "both_teams_to_score": {
+            "id": "10150",
+            "name": "Both Teams to Score",
+            "odds": [
+              {
+                "id": "1741189892",
+                "odds": "1.833",
+                "name": "Yes"
+              },
+              {
+                "id": "1741189893",
+                "odds": "1.833",
+                "name": "No"
+              }
+            ]
+          },
+          "teams_to_score": {
+            "id": "10211",
+            "name": "Teams to Score",
+            "odds": []
+          },
+          "both_teams_to_score_in_1st_half": {
+            "id": "50424",
+            "name": "Both Teams to Score in 1st Half",
+            "odds": [
+              {
+                "id": "1741190882",
+                "odds": "5.500",
+                "name": "Yes",
+                "handicap": ""
+              },
+              {
+                "id": "1741190883",
+                "odds": "1.142",
+                "name": "No",
+                "handicap": ""
+              }
+            ]
+          },
+          "both_teams_to_score_in_2nd_half": {
+            "id": "50432",
+            "name": "Both Teams to Score in 2nd Half",
+            "odds": [
+              {
+                "id": "1741190426",
+                "odds": "3.750",
+                "name": "Yes",
+                "handicap": ""
+              },
+              {
+                "id": "1741190430",
+                "odds": "1.250",
+                "name": "No",
+                "handicap": ""
+              }
+            ]
+          },
+          "both_teams_to_score_1st_half_2nd_half": {
+            "id": "50435",
+            "name": "Both Teams to Score 1st Half - 2nd Half",
+            "odds": []
+          },
+          "first_half_goals": {
+            "id": "10538",
+            "name": "First Half Goals",
+            "odds": [
+              {
+                "id": "1741190362",
+                "odds": "1.444",
+                "header": "Over",
+                "name": "0.5"
+              },
+              {
+                "id": "1741190370",
+                "odds": "3.250",
+                "header": "Over",
+                "name": "1.5"
+              },
+              {
+                "id": "1741190375",
+                "odds": "9.000",
+                "header": "Over",
+                "name": "2.5"
+              },
+              {
+                "id": "1741190381",
+                "odds": "26.000",
+                "header": "Over",
+                "name": "3.5"
+              },
+              {
+                "id": "1741190368",
+                "odds": "2.625",
+                "header": "Under",
+                "name": "0.5"
+              },
+              {
+                "id": "1741190372",
+                "odds": "1.333",
+                "header": "Under",
+                "name": "1.5"
+              },
+              {
+                "id": "1741190378",
+                "odds": "1.071",
+                "header": "Under",
+                "name": "2.5"
+              },
+              {
+                "id": "1741190384",
+                "odds": "1.010",
+                "header": "Under",
+                "name": "3.5"
+              }
+            ]
+          },
+          "exact_1st_half_goals": {
+            "id": "M10205",
+            "name": "Exact 1st Half Goals",
+            "odds": []
+          },
+          "total_goal_minutes": {
+            "id": "1776",
+            "name": "Total Goal Minutes",
+            "odds": []
+          },
+          "first_team_to_score": {
+            "id": "1178",
+            "name": "First Team to Score",
+            "odds": []
+          },
+          "first_goal_method": {
+            "id": "10216",
+            "name": "First Goal Method",
+            "odds": []
+          },
+          "early_goal": {
+            "id": "10258",
+            "name": "Early Goal",
+            "odds": [
+              {
+                "id": "591095587",
+                "odds": "1.833",
+                "name": "Goal before 31:00"
+              },
+              {
+                "id": "591095589",
+                "odds": "1.833",
+                "name": "No Goal before 31:00"
+              }
+            ]
+          },
+          "late_goal": {
+            "id": "10259",
+            "name": "Late Goal",
+            "odds": [
+              {
+                "id": "591095598",
+                "odds": "1.833",
+                "name": "Goal after 72:59"
+              },
+              {
+                "id": "591095600",
+                "odds": "1.833",
+                "name": "No Goal after 72:59"
+              }
+            ]
+          },
+          "time_of_first_goal_brackets": {
+            "id": "M10541",
+            "name": "Time of First Goal Brackets",
+            "odds": []
+          },
+          "2nd_half_goals": {
+            "id": "10209",
+            "name": "2nd Half Goals",
+            "odds": []
+          },
+          "exact_2nd_half_goals": {
+            "id": "M10252",
+            "name": "Exact 2nd Half Goals",
+            "odds": []
+          },
+          "half_with_most_goals": {
+            "id": "10537",
+            "name": "Half With Most Goals",
+            "odds": []
+          },
+          "home_team_highest_scoring_half": {
+            "id": "50417",
+            "name": "Home Team Highest Scoring Half",
+            "odds": []
+          },
+          "away_team_highest_scoring_half": {
+            "id": "50418",
+            "name": "Away Team Highest Scoring Half",
+            "odds": []
+          },
+          "clean_sheet": {
+            "id": "10210",
+            "name": "Clean Sheet",
+            "odds": []
+          },
+          "team_total_goals": {
+            "id": "10127",
+            "name": "Team Total Goals",
+            "odds": [
+              {
+                "id": "1741189891",
+                "odds": "1.200",
+                "header": "1",
+                "handicap": "Over 0.5"
+              },
+              {
+                "id": "1741189886",
+                "odds": "4.333",
+                "header": "1",
+                "handicap": "Under 0.5"
+              },
+              {
+                "id": "1741189875",
+                "odds": "2.000",
+                "header": "1",
+                "handicap": "Over 1.5"
+              },
+              {
+                "id": "1741189877",
+                "odds": "1.727",
+                "header": "1",
+                "handicap": "Under 1.5"
+              },
+              {
+                "id": "1741189881",
+                "odds": "4.333",
+                "header": "1",
+                "handicap": "Over 2.5"
+              },
+              {
+                "id": "1741189874",
+                "odds": "1.200",
+                "header": "1",
+                "handicap": "Under 2.5"
+              },
+              {
+                "id": "1741189871",
+                "odds": "11.000",
+                "header": "1",
+                "handicap": "Over 3.5"
+              },
+              {
+                "id": "1741189865",
+                "odds": "1.050",
+                "header": "1",
+                "handicap": "Under 3.5"
+              },
+              {
+                "id": "1741189872",
+                "odds": "26.000",
+                "header": "1",
+                "handicap": "Over 4.5"
+              },
+              {
+                "id": "1741189885",
+                "odds": "1.010",
+                "header": "1",
+                "handicap": "Under 4.5"
+              },
+              {
+                "id": "1741189887",
+                "odds": "1.533",
+                "header": "2",
+                "handicap": "Over 0.5"
+              },
+              {
+                "id": "1741189868",
+                "odds": "2.375",
+                "header": "2",
+                "handicap": "Under 0.5"
+              },
+              {
+                "id": "1741189879",
+                "odds": "3.750",
+                "header": "2",
+                "handicap": "Over 1.5"
+              },
+              {
+                "id": "1741189888",
+                "odds": "1.250",
+                "header": "2",
+                "handicap": "Under 1.5"
+              },
+              {
+                "id": "1741189870",
+                "odds": "13.000",
+                "header": "2",
+                "handicap": "Over 2.5"
+              },
+              {
+                "id": "1741189889",
+                "odds": "1.040",
+                "header": "2",
+                "handicap": "Under 2.5"
+              },
+              {
+                "id": "1741189890",
+                "odds": "34.000",
+                "header": "2",
+                "handicap": "Over 3.5"
+              },
+              {
+                "id": "1741189883",
+                "odds": "1.005",
+                "header": "2",
+                "handicap": "Under 3.5"
+              }
+            ]
+          },
+          "home_team_exact_goals": {
+            "id": "50415",
+            "name": "Home Team Exact Goals",
+            "odds": []
+          },
+          "away_team_exact_goals": {
+            "id": "50416",
+            "name": "Away Team Exact Goals",
+            "odds": []
+          },
+          "winning_margin": {
+            "id": "56",
+            "name": "Winning Margin",
+            "odds": []
+          },
+          "time_of_1st_team_goal": {
+            "id": "10214",
+            "name": "Time of 1st Team Goal",
+            "odds": []
+          },
+          "goals_odd_even": {
+            "id": "10111",
+            "name": "Goals Odd/Even",
+            "odds": [
+              {
+                "id": "1696114713",
+                "odds": "2.025",
+                "name": "Odd",
+                "handicap": ""
+              },
+              {
+                "id": "1696114711",
+                "odds": "1.825",
+                "name": "Even",
+                "handicap": ""
+              }
+            ]
+          },
+          "home_team_odd_even_goals": {
+            "id": "50406",
+            "name": "Home Team Odd/Even Goals",
+            "odds": []
+          },
+          "away_team_odd_even_goals": {
+            "id": "50407",
+            "name": "Away Team Odd/Even Goals",
+            "odds": []
+          },
+          "1st_half_goals_odd_even": {
+            "id": "10206",
+            "name": "1st Half Goals Odd/Even",
+            "odds": []
+          },
+          "last_team_to_score": {
+            "id": "10534",
+            "name": "Last Team to Score",
+            "odds": []
+          },
+          "first_10_minutes_(00:00_09:59)": {
+            "id": "10245",
+            "name": "First 10 Minutes (00:00 - 09:59)",
+            "odds": [
+              {
+                "id": "1696115544",
+                "odds": "5.000",
+                "header": "Over",
+                "name": "Goals",
+                "handicap": "0.5"
+              },
+              {
+                "id": "1696115559",
+                "odds": "1.166",
+                "header": "Under",
+                "name": "Goals",
+                "handicap": "0.5"
+              }
+            ]
+          }
+        }
+      },
+      "half": {
+        "updated_at": "1718021546",
+        "key": "#AC#B1#C1#D8#E147543881#F3#I7#",
+        "sp": {
+          "half_time_result": {
+            "id": "1579",
+            "name": "Half Time Result",
+            "odds": [
+              {
+                "id": "1696113950",
+                "odds": "2.500",
+                "name": "1"
+              },
+              {
+                "id": "1696113954",
+                "odds": "2.100",
+                "name": "Draw"
+              },
+              {
+                "id": "1696113956",
+                "odds": "4.750",
+                "name": "2"
+              }
+            ]
+          },
+          "half_time_double_chance": {
+            "id": "10257",
+            "name": "Half Time Double Chance",
+            "odds": [
+              {
+                "id": "1696114724",
+                "odds": "1.166",
+                "name": "Spain or Draw"
+              },
+              {
+                "id": "1696114727",
+                "odds": "1.500",
+                "name": "Draw or Croatia"
+              },
+              {
+                "id": "1696114731",
+                "odds": "1.666",
+                "name": "Spain or Croatia"
+              }
+            ]
+          },
+          "half_time_result_both_teams_to_score": {
+            "id": "50425",
+            "name": "Half Time Result/Both Teams To Score",
+            "odds": []
+          },
+          "half_time_result_total_goals": {
+            "id": "M50426",
+            "name": "Half Time Result / Total Goals",
+            "odds": []
+          },
+          "half_time_correct_score": {
+            "id": "10540",
+            "name": "Half Time Correct Score",
+            "odds": [
+              {
+                "id": "1696114620",
+                "odds": "3.750",
+                "header": "1",
+                "name": "1-0"
+              },
+              {
+                "id": "1696114575",
+                "odds": "10.000",
+                "header": "1",
+                "name": "2-0"
+              },
+              {
+                "id": "1696114591",
+                "odds": "21.000",
+                "header": "1",
+                "name": "2-1"
+              },
+              {
+                "id": "1696114551",
+                "odds": "34.000",
+                "header": "1",
+                "name": "3-0"
+              },
+              {
+                "id": "1696114577",
+                "odds": "51.000",
+                "header": "1",
+                "name": "3-1"
+              },
+              {
+                "id": "1696114632",
+                "odds": "151.000",
+                "header": "1",
+                "name": "3-2"
+              },
+              {
+                "id": "1696114539",
+                "odds": "101.000",
+                "header": "1",
+                "name": "4-0"
+              },
+              {
+                "id": "1696114604",
+                "odds": "201.000",
+                "header": "1",
+                "name": "4-1"
+              },
+              {
+                "id": "1696114564",
+                "odds": "501.000",
+                "header": "1",
+                "name": "5-0"
+              },
+              {
+                "id": "1696114610",
+                "odds": "2.625",
+                "header": "Draw",
+                "name": "0-0"
+              },
+              {
+                "id": "1696114613",
+                "odds": "8.500",
+                "header": "Draw",
+                "name": "1-1"
+              },
+              {
+                "id": "1696114628",
+                "odds": "51.000",
+                "header": "Draw",
+                "name": "2-2"
+              },
+              {
+                "id": "1696114555",
+                "odds": "6.000",
+                "header": "2",
+                "name": "1-0"
+              },
+              {
+                "id": "1696114559",
+                "odds": "23.000",
+                "header": "2",
+                "name": "2-0"
+              },
+              {
+                "id": "1696114595",
+                "odds": "34.000",
+                "header": "2",
+                "name": "2-1"
+              },
+              {
+                "id": "1696114598",
+                "odds": "81.000",
+                "header": "2",
+                "name": "3-0"
+              },
+              {
+                "id": "1696114570",
+                "odds": "101.000",
+                "header": "2",
+                "name": "3-1"
+              },
+              {
+                "id": "1696114548",
+                "odds": "251.000",
+                "header": "2",
+                "name": "3-2"
+              },
+              {
+                "id": "1696114561",
+                "odds": "501.000",
+                "header": "2",
+                "name": "4-0"
+              }
+            ]
+          },
+          "both_teams_to_score_in_1st_half": {
+            "id": "50424",
+            "name": "Both Teams to Score in 1st Half",
+            "odds": [
+              {
+                "id": "1741190882",
+                "odds": "5.500",
+                "name": "Yes",
+                "handicap": ""
+              },
+              {
+                "id": "1741190883",
+                "odds": "1.142",
+                "name": "No",
+                "handicap": ""
+              }
+            ]
+          },
+          "both_teams_to_score_in_2nd_half": {
+            "id": "50432",
+            "name": "Both Teams to Score in 2nd Half",
+            "odds": [
+              {
+                "id": "1741190426",
+                "odds": "3.750",
+                "name": "Yes",
+                "handicap": ""
+              },
+              {
+                "id": "1741190430",
+                "odds": "1.250",
+                "name": "No",
+                "handicap": ""
+              }
+            ]
+          },
+          "both_teams_to_score_1st_half_2nd_half": {
+            "id": "50435",
+            "name": "Both Teams to Score 1st Half - 2nd Half",
+            "odds": []
+          },
+          "1st_half_asian_handicap": {
+            "id": "50137",
+            "name": "1st Half Asian Handicap",
+            "odds": [
+              {
+                "id": "1696083603",
+                "odds": "2.100",
+                "header": "1",
+                "handicap": "0.0, -0.5"
+              },
+              {
+                "id": "1696083604",
+                "odds": "1.775",
+                "header": "2",
+                "handicap": "0.0, +0.5"
+              }
+            ]
+          },
+          "1st_half_goal_line": {
+            "id": "50136",
+            "name": "1st Half Goal Line",
+            "odds": [
+              {
+                "id": "1696083605",
+                "odds": "2.125",
+                "header": "Over",
+                "name": "1.0"
+              },
+              {
+                "id": "1696083606",
+                "odds": "1.750",
+                "header": "Under",
+                "name": "1.0"
+              }
+            ]
+          },
+          "alternative_1st_half_asian_handicap": {
+            "id": "50265",
+            "name": "Alternative 1st Half Asian Handicap",
+            "odds": []
+          },
+          "alternative_1st_half_goal_line": {
+            "id": "50266",
+            "name": "Alternative 1st Half Goal Line",
+            "odds": []
+          },
+          "1st_half_handicap": {
+            "id": "50264",
+            "name": "1st Half Handicap",
+            "odds": [
+              {
+                "id": "1741190765",
+                "odds": "8.000",
+                "header": "1",
+                "handicap": "-1"
+              },
+              {
+                "id": "1741190772",
+                "odds": "3.250",
+                "header": "Tie",
+                "handicap": "+1"
+              },
+              {
+                "id": "1741190773",
+                "odds": "1.500",
+                "header": "2",
+                "handicap": "+1"
+              }
+            ]
+          },
+          "alternative_1st_half_handicap_result": {
+            "id": "10207",
+            "name": "Alternative 1st Half Handicap Result",
+            "odds": []
+          },
+          "first_half_goals": {
+            "id": "10538",
+            "name": "First Half Goals",
+            "odds": [
+              {
+                "id": "1741190362",
+                "odds": "1.444",
+                "header": "Over",
+                "name": "0.5"
+              },
+              {
+                "id": "1741190370",
+                "odds": "3.250",
+                "header": "Over",
+                "name": "1.5"
+              },
+              {
+                "id": "1741190375",
+                "odds": "9.000",
+                "header": "Over",
+                "name": "2.5"
+              },
+              {
+                "id": "1741190381",
+                "odds": "26.000",
+                "header": "Over",
+                "name": "3.5"
+              },
+              {
+                "id": "1741190368",
+                "odds": "2.625",
+                "header": "Under",
+                "name": "0.5"
+              },
+              {
+                "id": "1741190372",
+                "odds": "1.333",
+                "header": "Under",
+                "name": "1.5"
+              },
+              {
+                "id": "1741190378",
+                "odds": "1.071",
+                "header": "Under",
+                "name": "2.5"
+              },
+              {
+                "id": "1741190384",
+                "odds": "1.010",
+                "header": "Under",
+                "name": "3.5"
+              }
+            ]
+          },
+          "exact_1st_half_goals": {
+            "id": "M10205",
+            "name": "Exact 1st Half Goals",
+            "odds": []
+          },
+          "1st_half_goals_odd_even": {
+            "id": "10206",
+            "name": "1st Half Goals Odd/Even",
+            "odds": []
+          },
+          "to_score_in_half": {
+            "id": "50419",
+            "name": "To Score In Half",
+            "odds": [
+              {
+                "id": "1741189739",
+                "odds": "1.909",
+                "header": "Yes",
+                "name": "1st Half",
+                "team": "1"
+              },
+              {
+                "id": "1741190778",
+                "odds": "1.615",
+                "header": "Yes",
+                "name": "2nd Half",
+                "team": "1"
+              },
+              {
+                "id": "1741189741",
+                "odds": "1.800",
+                "header": "No",
+                "name": "1st Half",
+                "team": "1"
+              },
+              {
+                "id": "1741190782",
+                "odds": "2.200",
+                "header": "No",
+                "name": "2nd Half",
+                "team": "1"
+              },
+              {
+                "id": "1741190124",
+                "odds": "2.750",
+                "header": "Yes",
+                "name": "1st Half",
+                "team": "2"
+              },
+              {
+                "id": "1741189783",
+                "odds": "2.200",
+                "header": "Yes",
+                "name": "2nd Half",
+                "team": "2"
+              },
+              {
+                "id": "1741190128",
+                "odds": "1.400",
+                "header": "No",
+                "name": "1st Half",
+                "team": "2"
+              },
+              {
+                "id": "1741189784",
+                "odds": "1.615",
+                "header": "No",
+                "name": "2nd Half",
+                "team": "2"
+              }
+            ]
+          },
+          "half_with_most_goals": {
+            "id": "10537",
+            "name": "Half With Most Goals",
+            "odds": []
+          },
+          "home_team_highest_scoring_half": {
+            "id": "50417",
+            "name": "Home Team Highest Scoring Half",
+            "odds": []
+          },
+          "away_team_highest_scoring_half": {
+            "id": "50418",
+            "name": "Away Team Highest Scoring Half",
+            "odds": []
+          },
+          "2nd_half_result": {
+            "id": "10208",
+            "name": "2nd Half Result",
+            "odds": []
+          },
+          "2nd_half_goals": {
+            "id": "10209",
+            "name": "2nd Half Goals",
+            "odds": []
+          },
+          "exact_2nd_half_goals": {
+            "id": "M10252",
+            "name": "Exact 2nd Half Goals",
+            "odds": []
+          },
+          "2nd_half_goals_odd_even": {
+            "id": "50433",
+            "name": "2nd Half Goals Odd/Even",
+            "odds": []
+          }
+        }
+      },
+      "main": {
+        "updated_at": "1718022143",
+        "key": "#AC#B1#C1#D8#E147543881#F3#I^16#",
+        "sp": {
+          "full_time_result": {
+            "id": "40",
+            "name": "Full Time Result",
+            "odds": [
+              {
+                "id": "1696083582",
+                "odds": "1.900",
+                "name": "1"
+              },
+              {
+                "id": "1696083584",
+                "odds": "3.400",
+                "name": "Draw"
+              },
+              {
+                "id": "1696083586",
+                "odds": "4.500",
+                "name": "2"
+              }
+            ]
+          },
+          "double_chance": {
+            "id": "10114",
+            "name": "Double Chance",
+            "odds": [
+              {
+                "id": "1696114693",
+                "odds": "1.181",
+                "name": "Spain or Draw"
+              },
+              {
+                "id": "1696114685",
+                "odds": "1.909",
+                "name": "Draw or Croatia"
+              },
+              {
+                "id": "1696114691",
+                "odds": "1.300",
+                "name": "Spain or Croatia"
+              }
+            ]
+          },
+          "goals_over_under": {
+            "id": "981",
+            "name": "Goals Over/Under",
+            "odds": [
+              {
+                "id": "1696083587",
+                "odds": "2.100",
+                "header": "Over",
+                "name": "2.5"
+              },
+              {
+                "id": "1696083589",
+                "odds": "1.727",
+                "header": "Under",
+                "name": "2.5"
+              }
+            ]
+          },
+          "both_teams_to_score": {
+            "id": "10150",
+            "name": "Both Teams to Score",
+            "odds": [
+              {
+                "id": "1741189892",
+                "odds": "1.833",
+                "name": "Yes"
+              },
+              {
+                "id": "1741189893",
+                "odds": "1.833",
+                "name": "No"
+              }
+            ]
+          },
+          "result_both_teams_to_score": {
+            "id": "50404",
+            "name": "Result/Both Teams to Score",
+            "odds": [
+              {
+                "id": "1741190797",
+                "odds": "4.333",
+                "header": "Yes",
+                "name": "1"
+              },
+              {
+                "id": "1741190792",
+                "odds": "9.000",
+                "header": "Yes",
+                "name": "2"
+              },
+              {
+                "id": "1741190788",
+                "odds": "4.750",
+                "header": "Yes",
+                "name": "Draw"
+              },
+              {
+                "id": "1741190784",
+                "odds": "3.000",
+                "header": "No",
+                "name": "1"
+              },
+              {
+                "id": "1741190795",
+                "odds": "7.000",
+                "header": "No",
+                "name": "2"
+              },
+              {
+                "id": "1741190790",
+                "odds": "8.500",
+                "header": "No",
+                "name": "Draw"
+              }
+            ]
+          },
+          "correct_score": {
+            "id": "43",
+            "name": "Correct Score",
+            "odds": [
+              {
+                "id": "1696114379",
+                "odds": "7.000",
+                "header": "1",
+                "name": "1-0"
+              },
+              {
+                "id": "1696114435",
+                "odds": "9.000",
+                "header": "1",
+                "name": "2-0"
+              },
+              {
+                "id": "1696114423",
+                "odds": "9.000",
+                "header": "1",
+                "name": "2-1"
+              },
+              {
+                "id": "1696114452",
+                "odds": "17.000",
+                "header": "1",
+                "name": "3-0"
+              },
+              {
+                "id": "1696114466",
+                "odds": "17.000",
+                "header": "1",
+                "name": "3-1"
+              },
+              {
+                "id": "1696114438",
+                "odds": "34.000",
+                "header": "1",
+                "name": "3-2"
+              },
+              {
+                "id": "1696114385",
+                "odds": "34.000",
+                "header": "1",
+                "name": "4-0"
+              },
+              {
+                "id": "1696114427",
+                "odds": "41.000",
+                "header": "1",
+                "name": "4-1"
+              },
+              {
+                "id": "1696114455",
+                "odds": "51.000",
+                "header": "1",
+                "name": "4-2"
+              },
+              {
+                "id": "1696114397",
+                "odds": "126.000",
+                "header": "1",
+                "name": "4-3"
+              },
+              {
+                "id": "1696114457",
+                "odds": "67.000",
+                "header": "1",
+                "name": "5-0"
+              },
+              {
+                "id": "1696114459",
+                "odds": "67.000",
+                "header": "1",
+                "name": "5-1"
+              },
+              {
+                "id": "1696114468",
+                "odds": "126.000",
+                "header": "1",
+                "name": "5-2"
+              },
+              {
+                "id": "1696114441",
+                "odds": "301.000",
+                "header": "1",
+                "name": "5-3"
+              },
+              {
+                "id": "1696114470",
+                "odds": "201.000",
+                "header": "1",
+                "name": "6-0"
+              },
+              {
+                "id": "1696114447",
+                "odds": "201.000",
+                "header": "1",
+                "name": "6-1"
+              },
+              {
+                "id": "1696114401",
+                "odds": "401.000",
+                "header": "1",
+                "name": "6-2"
+              },
+              {
+                "id": "1696114480",
+                "odds": "8.500",
+                "header": "Draw",
+                "name": "0-0"
+              },
+              {
+                "id": "1696114461",
+                "odds": "6.500",
+                "header": "Draw",
+                "name": "1-1"
+              },
+              {
+                "id": "1696114405",
+                "odds": "17.000",
+                "header": "Draw",
+                "name": "2-2"
+              },
+              {
+                "id": "1696114408",
+                "odds": "51.000",
+                "header": "Draw",
+                "name": "3-3"
+              },
+              {
+                "id": "1696114449",
+                "odds": "401.000",
+                "header": "Draw",
+                "name": "4-4"
+              },
+              {
+                "id": "1696114388",
+                "odds": "12.000",
+                "header": "2",
+                "name": "1-0"
+              },
+              {
+                "id": "1696114391",
+                "odds": "23.000",
+                "header": "2",
+                "name": "2-0"
+              },
+              {
+                "id": "1696114489",
+                "odds": "17.000",
+                "header": "2",
+                "name": "2-1"
+              },
+              {
+                "id": "1696114413",
+                "odds": "51.000",
+                "header": "2",
+                "name": "3-0"
+              },
+              {
+                "id": "1696114464",
+                "odds": "41.000",
+                "header": "2",
+                "name": "3-1"
+              },
+              {
+                "id": "1696114419",
+                "odds": "41.000",
+                "header": "2",
+                "name": "3-2"
+              },
+              {
+                "id": "1696114394",
+                "odds": "126.000",
+                "header": "2",
+                "name": "4-0"
+              },
+              {
+                "id": "1696114492",
+                "odds": "101.000",
+                "header": "2",
+                "name": "4-1"
+              },
+              {
+                "id": "1696114431",
+                "odds": "126.000",
+                "header": "2",
+                "name": "4-2"
+              },
+              {
+                "id": "1696114514",
+                "odds": "201.000",
+                "header": "2",
+                "name": "4-3"
+              },
+              {
+                "id": "1696114517",
+                "odds": "501.000",
+                "header": "2",
+                "name": "5-0"
+              },
+              {
+                "id": "1696114505",
+                "odds": "351.000",
+                "header": "2",
+                "name": "5-1"
+              },
+              {
+                "id": "1696114495",
+                "odds": "451.000",
+                "header": "2",
+                "name": "5-2"
+              }
+            ]
+          },
+          "half_time_full_time": {
+            "id": "42",
+            "name": "Half Time/Full Time",
+            "odds": [
+              {
+                "id": "1696114327",
+                "odds": "3.100",
+                "name": "Spain - Spain"
+              },
+              {
+                "id": "1696114328",
+                "odds": "15.000",
+                "name": "Spain - Draw"
+              },
+              {
+                "id": "1696114315",
+                "odds": "41.000",
+                "name": "Spain - Croatia"
+              },
+              {
+                "id": "1696114330",
+                "odds": "4.750",
+                "name": "Draw - Spain"
+              },
+              {
+                "id": "1696114331",
+                "odds": "5.000",
+                "name": "Draw - Draw"
+              },
+              {
+                "id": "1696114321",
+                "odds": "9.000",
+                "name": "Draw - Croatia"
+              },
+              {
+                "id": "1696114323",
+                "odds": "26.000",
+                "name": "Croatia - Spain"
+              },
+              {
+                "id": "1696114333",
+                "odds": "17.000",
+                "name": "Croatia - Draw"
+              },
+              {
+                "id": "1696114325",
+                "odds": "7.500",
+                "name": "Croatia - Croatia"
+              }
+            ]
+          },
+          "half_time_full_time_correct_score": {
+            "id": "10201",
+            "name": "Half Time / Full Time Correct Score",
+            "odds": []
+          },
+          "asian_handicap": {
+            "id": "938",
+            "name": "Asian Handicap",
+            "odds": [
+              {
+                "id": "1696083592",
+                "odds": "1.920",
+                "header": "1",
+                "handicap": "-0.5"
+              },
+              {
+                "id": "1696083595",
+                "odds": "1.980",
+                "header": "2",
+                "handicap": "+0.5"
+              }
+            ]
+          },
+          "goal_line": {
+            "id": "10143",
+            "name": "Goal Line",
+            "odds": [
+              {
+                "id": "1696083599",
+                "odds": "1.910",
+                "header": "Over",
+                "name": "2.0, 2.5"
+              },
+              {
+                "id": "1696083602",
+                "odds": "1.990",
+                "header": "Under",
+                "name": "2.0, 2.5"
+              }
+            ]
+          },
+          "draw_no_bet": {
+            "id": "10544",
+            "name": "Draw No Bet",
+            "odds": [
+              {
+                "id": "1696113930",
+                "odds": "1.333",
+                "name": "1",
+                "handicap": ""
+              },
+              {
+                "id": "1696113935",
+                "odds": "3.250",
+                "name": "2",
+                "handicap": ""
+              }
+            ]
+          },
+          "handicap_result": {
+            "id": "171",
+            "name": "Handicap Result",
+            "odds": []
+          },
+          "alternative_handicap_result": {
+            "id": "10204",
+            "name": "Alternative Handicap Result",
+            "odds": []
+          }
+        }
+      },
+      "minutes": {
+        "updated_at": "1718021979",
+        "key": "#AC#B1#C1#D8#E147543881#F3#I2#",
+        "sp": {
+          "10_minute_result": {
+            "id": "10244",
+            "name": "10 Minute Result",
+            "odds": [
+              {
+                "id": "1696115524",
+                "odds": "7.000",
+                "name": "1"
+              },
+              {
+                "id": "1696115531",
+                "odds": "1.142",
+                "name": "Draw"
+              },
+              {
+                "id": "1696115533",
+                "odds": "10.000",
+                "name": "2"
+              }
+            ]
+          },
+          "first_10_minutes_(00:00_09:59)": {
+            "id": "10245",
+            "name": "First 10 Minutes (00:00 - 09:59)",
+            "odds": [
+              {
+                "id": "1696115544",
+                "odds": "5.000",
+                "header": "Over",
+                "name": "Goals",
+                "handicap": "0.5"
+              },
+              {
+                "id": "1696115559",
+                "odds": "1.166",
+                "header": "Under",
+                "name": "Goals",
+                "handicap": "0.5"
+              }
+            ]
+          }
+        }
+      },
+      "others": [
+        {
+          "updated_at": "1718022113",
+          "sp": {
+            "exact_total_goals": {
+              "id": "M10203",
+              "name": "Exact Total Goals",
+              "odds": [
+                {
+                  "id": "1741190646",
+                  "odds": "8.500",
+                  "name": "0 Goals"
+                },
+                {
+                  "id": "1741190648",
+                  "odds": "4.500",
+                  "name": "1 Goal"
+                },
+                {
+                  "id": "1741190650",
+                  "odds": "3.400",
+                  "name": "2 Goals"
+                },
+                {
+                  "id": "1741190652",
+                  "odds": "4.333",
+                  "name": "3 Goals"
+                },
+                {
+                  "id": "1741190654",
+                  "odds": "6.500",
+                  "name": "4 Goals"
+                },
+                {
+                  "id": "1741190639",
+                  "odds": "13.000",
+                  "name": "5 Goals"
+                },
+                {
+                  "id": "1741190642",
+                  "odds": "26.000",
+                  "name": "6 Goals"
+                },
+                {
+                  "id": "1741190644",
+                  "odds": "29.000",
+                  "name": "7+ Goals"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021893",
+          "sp": {
+            "alternative_handicap_result": {
+              "id": "10204",
+              "name": "Alternative Handicap Result",
+              "odds": [
+                {
+                  "id": "1741190849",
+                  "odds": "19.000",
+                  "header": "1",
+                  "handicap": "-3"
+                },
+                {
+                  "id": "1741190857",
+                  "odds": "7.500",
+                  "header": "1",
+                  "handicap": "-2"
+                },
+                {
+                  "id": "1741190855",
+                  "odds": "1.181",
+                  "header": "1",
+                  "handicap": "+1"
+                },
+                {
+                  "id": "1741190854",
+                  "odds": "1.045",
+                  "header": "1",
+                  "handicap": "+2"
+                },
+                {
+                  "id": "1741190844",
+                  "odds": "11.000",
+                  "header": "Tie",
+                  "handicap": "+3"
+                },
+                {
+                  "id": "1741190852",
+                  "odds": "5.500",
+                  "header": "Tie",
+                  "handicap": "+2"
+                },
+                {
+                  "id": "1741190856",
+                  "odds": "6.000",
+                  "header": "Tie",
+                  "handicap": "-1"
+                },
+                {
+                  "id": "1741190846",
+                  "odds": "15.000",
+                  "header": "Tie",
+                  "handicap": "-2"
+                },
+                {
+                  "id": "1741190845",
+                  "odds": "1.071",
+                  "header": "2",
+                  "handicap": "+3"
+                },
+                {
+                  "id": "1741190853",
+                  "odds": "1.300",
+                  "header": "2",
+                  "handicap": "+2"
+                },
+                {
+                  "id": "1741190848",
+                  "odds": "11.000",
+                  "header": "2",
+                  "handicap": "-1"
+                },
+                {
+                  "id": "1741190847",
+                  "odds": "29.000",
+                  "header": "2",
+                  "handicap": "-2"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021998",
+          "sp": {
+            "exact_1st_half_goals": {
+              "id": "M10205",
+              "name": "Exact 1st Half Goals",
+              "odds": [
+                {
+                  "id": "1741189922",
+                  "odds": "2.625",
+                  "name": "0 Goals"
+                },
+                {
+                  "id": "1741189913",
+                  "odds": "2.500",
+                  "name": "1 Goal"
+                },
+                {
+                  "id": "1741189915",
+                  "odds": "4.333",
+                  "name": "2 Goals"
+                },
+                {
+                  "id": "1741189917",
+                  "odds": "11.000",
+                  "name": "3 Goals"
+                },
+                {
+                  "id": "1741189918",
+                  "odds": "34.000",
+                  "name": "4 Goals"
+                },
+                {
+                  "id": "1741189920",
+                  "odds": "67.000",
+                  "name": "5+ Goals"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021412",
+          "sp": {
+            "1st_half_goals_odd_even": {
+              "id": "10206",
+              "name": "1st Half Goals Odd/Even",
+              "odds": [
+                {
+                  "id": "1696113975",
+                  "odds": "2.100",
+                  "name": "Odd",
+                  "handicap": ""
+                },
+                {
+                  "id": "1696113966",
+                  "odds": "1.727",
+                  "name": "Even",
+                  "handicap": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021996",
+          "sp": {
+            "alternative_1st_half_handicap_result": {
+              "id": "10207",
+              "name": "Alternative 1st Half Handicap Result",
+              "odds": [
+                {
+                  "id": "1741190758",
+                  "odds": "81.000",
+                  "header": "1",
+                  "handicap": "-3"
+                },
+                {
+                  "id": "1741190749",
+                  "odds": "29.000",
+                  "header": "1",
+                  "handicap": "-2"
+                },
+                {
+                  "id": "1741190740",
+                  "odds": "1.166",
+                  "header": "1",
+                  "handicap": "+1"
+                },
+                {
+                  "id": "1741190735",
+                  "odds": "34.000",
+                  "header": "Tie",
+                  "handicap": "+3"
+                },
+                {
+                  "id": "1741190752",
+                  "odds": "10.000",
+                  "header": "Tie",
+                  "handicap": "+2"
+                },
+                {
+                  "id": "1741190744",
+                  "odds": "5.000",
+                  "header": "Tie",
+                  "handicap": "-1"
+                },
+                {
+                  "id": "1741190760",
+                  "odds": "1.012",
+                  "header": "2",
+                  "handicap": "+3"
+                },
+                {
+                  "id": "1741190755",
+                  "odds": "1.071",
+                  "header": "2",
+                  "handicap": "+2"
+                },
+                {
+                  "id": "1741190747",
+                  "odds": "19.000",
+                  "header": "2",
+                  "handicap": "-1"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718022074",
+          "sp": {
+            "2nd_half_result": {
+              "id": "10208",
+              "name": "2nd Half Result",
+              "odds": [
+                {
+                  "id": "1741190020",
+                  "odds": "2.200",
+                  "name": "1",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190024",
+                  "odds": "2.400",
+                  "name": "Draw",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190026",
+                  "odds": "4.333",
+                  "name": "2",
+                  "handicap": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021785",
+          "sp": {
+            "2nd_half_goals": {
+              "id": "10209",
+              "name": "2nd Half Goals",
+              "odds": [
+                {
+                  "id": "1741190720",
+                  "odds": "1.250",
+                  "header": "Over",
+                  "name": "0.5"
+                },
+                {
+                  "id": "1741190725",
+                  "odds": "2.200",
+                  "header": "Over",
+                  "name": "1.5"
+                },
+                {
+                  "id": "1741190731",
+                  "odds": "5.000",
+                  "header": "Over",
+                  "name": "2.5"
+                },
+                {
+                  "id": "1741190714",
+                  "odds": "13.000",
+                  "header": "Over",
+                  "name": "3.5"
+                },
+                {
+                  "id": "1741190722",
+                  "odds": "3.750",
+                  "header": "Under",
+                  "name": "0.5"
+                },
+                {
+                  "id": "1741190728",
+                  "odds": "1.615",
+                  "header": "Under",
+                  "name": "1.5"
+                },
+                {
+                  "id": "1741190707",
+                  "odds": "1.166",
+                  "header": "Under",
+                  "name": "2.5"
+                },
+                {
+                  "id": "1741190717",
+                  "odds": "1.040",
+                  "header": "Under",
+                  "name": "3.5"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021944",
+          "sp": {
+            "clean_sheet": {
+              "id": "10210",
+              "name": "Clean Sheet",
+              "odds": [
+                {
+                  "id": "1741189778",
+                  "odds": "2.375",
+                  "header": "1",
+                  "handicap": "Yes"
+                },
+                {
+                  "id": "1741189780",
+                  "odds": "1.533",
+                  "header": "1",
+                  "handicap": "No"
+                },
+                {
+                  "id": "1741189781",
+                  "odds": "4.333",
+                  "header": "2",
+                  "handicap": "Yes"
+                },
+                {
+                  "id": "1741189782",
+                  "odds": "1.200",
+                  "header": "2",
+                  "handicap": "No"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021015",
+          "sp": {
+            "teams_to_score": {
+              "id": "10211",
+              "name": "Teams to Score",
+              "odds": [
+                {
+                  "id": "1741190201",
+                  "odds": "1.833",
+                  "name": "Both Teams"
+                },
+                {
+                  "id": "1741190194",
+                  "odds": "3.000",
+                  "name": "Spain Only"
+                },
+                {
+                  "id": "1741190200",
+                  "odds": "8.500",
+                  "name": "No Goal"
+                },
+                {
+                  "id": "1741190198",
+                  "odds": "7.000",
+                  "name": "Croatia Only"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021176",
+          "sp": {
+            "time_of_1st_team_goal": {
+              "id": "10214",
+              "name": "Time of 1st Team Goal",
+              "odds": [
+                {
+                  "id": "649791131",
+                  "odds": "1.833",
+                  "header": "1",
+                  "handicap": "Goal Before 47:00"
+                },
+                {
+                  "id": "649791133",
+                  "odds": "1.833",
+                  "header": "1",
+                  "handicap": "No Goal Before 47:00"
+                },
+                {
+                  "id": "572033537",
+                  "odds": "1.833",
+                  "header": "2",
+                  "handicap": "Goal Before 75:00"
+                },
+                {
+                  "id": "572033538",
+                  "odds": "1.833",
+                  "header": "2",
+                  "handicap": "No Goal Before 75:00"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021929",
+          "sp": {
+            "first_goal_method": {
+              "id": "10216",
+              "name": "First Goal Method",
+              "odds": [
+                {
+                  "id": "1828936985",
+                  "odds": "1.500",
+                  "name": "Shot"
+                },
+                {
+                  "id": "1828936995",
+                  "odds": "6.500",
+                  "name": "Header"
+                },
+                {
+                  "id": "1828936999",
+                  "odds": "7.500",
+                  "name": "Penalty"
+                },
+                {
+                  "id": "1828937003",
+                  "odds": "23.000",
+                  "name": "Free Kick"
+                },
+                {
+                  "id": "1828937006",
+                  "odds": "29.000",
+                  "name": "Own Goal"
+                },
+                {
+                  "id": "1828937018",
+                  "odds": "8.500",
+                  "name": "No Goal"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021888",
+          "sp": {
+            "exact_2nd_half_goals": {
+              "id": "M10252",
+              "name": "Exact 2nd Half Goals",
+              "odds": [
+                {
+                  "id": "1741190404",
+                  "odds": "3.750",
+                  "name": "0 Goals"
+                },
+                {
+                  "id": "1741190389",
+                  "odds": "2.750",
+                  "name": "1 Goal"
+                },
+                {
+                  "id": "1741190393",
+                  "odds": "3.600",
+                  "name": "2 Goals"
+                },
+                {
+                  "id": "1741190395",
+                  "odds": "7.500",
+                  "name": "3 Goals"
+                },
+                {
+                  "id": "1741190399",
+                  "odds": "19.000",
+                  "name": "4 Goals"
+                },
+                {
+                  "id": "1741190402",
+                  "odds": "34.000",
+                  "name": "5+ Goals"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021298",
+          "sp": {
+            "last_team_to_score": {
+              "id": "10534",
+              "name": "Last Team to Score",
+              "odds": [
+                {
+                  "id": "1741189796",
+                  "odds": "1.533",
+                  "name": "1",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741189799",
+                  "odds": "8.500",
+                  "name": "No Goal",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741189800",
+                  "odds": "2.875",
+                  "name": "2",
+                  "handicap": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021914",
+          "sp": {
+            "half_with_most_goals": {
+              "id": "10537",
+              "name": "Half With Most Goals",
+              "odds": [
+                {
+                  "id": "1741189910",
+                  "odds": "3.200",
+                  "name": "1st Half",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741189911",
+                  "odds": "2.050",
+                  "name": "2nd Half",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741189908",
+                  "odds": "3.400",
+                  "name": "Tie",
+                  "handicap": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021920",
+          "sp": {
+            "time_of_first_goal_brackets": {
+              "id": "M10541",
+              "name": "Time of First Goal Brackets",
+              "odds": [
+                {
+                  "id": "1696115789",
+                  "odds": "5.000",
+                  "name": "1-10"
+                },
+                {
+                  "id": "1696115810",
+                  "odds": "5.500",
+                  "name": "11-20"
+                },
+                {
+                  "id": "1696115813",
+                  "odds": "6.500",
+                  "name": "21-30"
+                },
+                {
+                  "id": "1696115800",
+                  "odds": "7.500",
+                  "name": "31-40"
+                },
+                {
+                  "id": "1696115816",
+                  "odds": "8.000",
+                  "name": "41-50"
+                },
+                {
+                  "id": "1696115819",
+                  "odds": "12.000",
+                  "name": "51-60"
+                },
+                {
+                  "id": "1696115804",
+                  "odds": "15.000",
+                  "name": "61-70"
+                },
+                {
+                  "id": "1696115822",
+                  "odds": "19.000",
+                  "name": "71-80"
+                },
+                {
+                  "id": "1696115824",
+                  "odds": "17.000",
+                  "name": "81 - Full Time"
+                },
+                {
+                  "id": "1696115807",
+                  "odds": "8.500",
+                  "name": "No Goal"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021902",
+          "sp": {
+            "first_team_to_score": {
+              "id": "1178",
+              "name": "First Team to Score",
+              "odds": [
+                {
+                  "id": "1696113939",
+                  "odds": "1.533",
+                  "name": "1",
+                  "handicap": ""
+                },
+                {
+                  "id": "1696113944",
+                  "odds": "8.500",
+                  "name": "No Goals",
+                  "handicap": ""
+                },
+                {
+                  "id": "1696113946",
+                  "odds": "2.875",
+                  "name": "2",
+                  "handicap": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718022135",
+          "sp": {
+            "handicap_result": {
+              "id": "171",
+              "name": "Handicap Result",
+              "odds": [
+                {
+                  "id": "1741191041",
+                  "odds": "3.400",
+                  "header": "1",
+                  "handicap": "-1"
+                },
+                {
+                  "id": "1741191044",
+                  "odds": "3.600",
+                  "header": "Tie",
+                  "handicap": "+1"
+                },
+                {
+                  "id": "1741191046",
+                  "odds": "1.909",
+                  "header": "2",
+                  "handicap": "+1"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718020798",
+          "sp": {
+            "total_goal_minutes": {
+              "id": "1776",
+              "name": "Total Goal Minutes",
+              "odds": [
+                {
+                  "id": "591095493",
+                  "odds": "2.200",
+                  "name": "Over 135 minutes"
+                },
+                {
+                  "id": "591095496",
+                  "odds": "9.000",
+                  "name": "115 To 135 minutes inc."
+                },
+                {
+                  "id": "591095498",
+                  "odds": "1.833",
+                  "name": "Under 115 minutes"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021737",
+          "sp": {
+            "alternative_asian_handicap": {
+              "id": "50138",
+              "name": "Alternative Asian Handicap",
+              "odds": [
+                {
+                  "id": "1741191655",
+                  "odds": "6.800",
+                  "header": "1",
+                  "handicap": "-2.0"
+                },
+                {
+                  "id": "1741191673",
+                  "odds": "4.400",
+                  "header": "1",
+                  "handicap": "-1.5, -2.0"
+                },
+                {
+                  "id": "1741191668",
+                  "odds": "3.450",
+                  "header": "1",
+                  "handicap": "-1.5"
+                },
+                {
+                  "id": "1741191674",
+                  "odds": "3.100",
+                  "header": "1",
+                  "handicap": "-1.0, -1.5"
+                },
+                {
+                  "id": "1741191658",
+                  "odds": "2.675",
+                  "header": "1",
+                  "handicap": "-1.0"
+                },
+                {
+                  "id": "627603988",
+                  "odds": "2.150",
+                  "header": "1",
+                  "handicap": "-0.5, -1.0"
+                },
+                {
+                  "id": "1741191675",
+                  "odds": "1.625",
+                  "header": "1",
+                  "handicap": "0.0, -0.5"
+                },
+                {
+                  "id": "1741191669",
+                  "odds": "1.350",
+                  "header": "1",
+                  "handicap": "0.0"
+                },
+                {
+                  "id": "1741191678",
+                  "odds": "1.275",
+                  "header": "1",
+                  "handicap": "0.0, +0.5"
+                },
+                {
+                  "id": "1741191671",
+                  "odds": "1.225",
+                  "header": "1",
+                  "handicap": "+0.5"
+                },
+                {
+                  "id": "1741191664",
+                  "odds": "1.140",
+                  "header": "1",
+                  "handicap": "+0.5, +1.0"
+                },
+                {
+                  "id": "1741191672",
+                  "odds": "1.105",
+                  "header": "2",
+                  "handicap": "+2.0"
+                },
+                {
+                  "id": "1741191656",
+                  "odds": "1.200",
+                  "header": "2",
+                  "handicap": "+1.5, +2.0"
+                },
+                {
+                  "id": "1741191662",
+                  "odds": "1.300",
+                  "header": "2",
+                  "handicap": "+1.5"
+                },
+                {
+                  "id": "1741191657",
+                  "odds": "1.350",
+                  "header": "2",
+                  "handicap": "+1.0, +1.5"
+                },
+                {
+                  "id": "1741191659",
+                  "odds": "1.450",
+                  "header": "2",
+                  "handicap": "+1.0"
+                },
+                {
+                  "id": "627603985",
+                  "odds": "1.675",
+                  "header": "2",
+                  "handicap": "+0.5, +1.0"
+                },
+                {
+                  "id": "1741191676",
+                  "odds": "2.250",
+                  "header": "2",
+                  "handicap": "0.0, +0.5"
+                },
+                {
+                  "id": "1741191677",
+                  "odds": "3.100",
+                  "header": "2",
+                  "handicap": "0.0"
+                },
+                {
+                  "id": "1741191670",
+                  "odds": "3.550",
+                  "header": "2",
+                  "handicap": "0.0, -0.5"
+                },
+                {
+                  "id": "1741191653",
+                  "odds": "4.100",
+                  "header": "2",
+                  "handicap": "-0.5"
+                },
+                {
+                  "id": "1741191665",
+                  "odds": "5.750",
+                  "header": "2",
+                  "handicap": "-0.5, -1.0"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718022071",
+          "sp": {
+            "alternative_goal_line": {
+              "id": "50139",
+              "name": "Alternative Goal Line",
+              "odds": [
+                {
+                  "id": "654210843",
+                  "odds": "1.100",
+                  "header": "Over",
+                  "name": "1.0"
+                },
+                {
+                  "id": "1741191608",
+                  "odds": "1.225",
+                  "header": "Over",
+                  "name": "1.0, 1.5"
+                },
+                {
+                  "id": "1741191620",
+                  "odds": "1.350",
+                  "header": "Over",
+                  "name": "1.5"
+                },
+                {
+                  "id": "1741191621",
+                  "odds": "1.450",
+                  "header": "Over",
+                  "name": "1.5, 2.0"
+                },
+                {
+                  "id": "1741191627",
+                  "odds": "1.575",
+                  "header": "Over",
+                  "name": "2.0"
+                },
+                {
+                  "id": "591095502",
+                  "odds": "2.100",
+                  "header": "Over",
+                  "name": "2.5"
+                },
+                {
+                  "id": "1741191615",
+                  "odds": "2.425",
+                  "header": "Over",
+                  "name": "2.5, 3.0"
+                },
+                {
+                  "id": "1741191629",
+                  "odds": "3.100",
+                  "header": "Over",
+                  "name": "3.0"
+                },
+                {
+                  "id": "1741191616",
+                  "odds": "3.450",
+                  "header": "Over",
+                  "name": "3.0, 3.5"
+                },
+                {
+                  "id": "1741191633",
+                  "odds": "3.700",
+                  "header": "Over",
+                  "name": "3.5"
+                },
+                {
+                  "id": "1741191605",
+                  "odds": "4.650",
+                  "header": "Over",
+                  "name": "3.5, 4.0"
+                },
+                {
+                  "id": "1741191606",
+                  "odds": "7.000",
+                  "header": "Over",
+                  "name": "4.0"
+                },
+                {
+                  "id": "654210842",
+                  "odds": "7.000",
+                  "header": "Under",
+                  "name": "1.0"
+                },
+                {
+                  "id": "1741191619",
+                  "odds": "4.100",
+                  "header": "Under",
+                  "name": "1.0, 1.5"
+                },
+                {
+                  "id": "1741191632",
+                  "odds": "3.100",
+                  "header": "Under",
+                  "name": "1.5"
+                },
+                {
+                  "id": "1741191626",
+                  "odds": "2.675",
+                  "header": "Under",
+                  "name": "1.5, 2.0"
+                },
+                {
+                  "id": "1741191628",
+                  "odds": "2.350",
+                  "header": "Under",
+                  "name": "2.0"
+                },
+                {
+                  "id": "591095505",
+                  "odds": "1.700",
+                  "header": "Under",
+                  "name": "2.5"
+                },
+                {
+                  "id": "1741191612",
+                  "odds": "1.525",
+                  "header": "Under",
+                  "name": "2.5, 3.0"
+                },
+                {
+                  "id": "1741191624",
+                  "odds": "1.350",
+                  "header": "Under",
+                  "name": "3.0"
+                },
+                {
+                  "id": "1741191614",
+                  "odds": "1.300",
+                  "header": "Under",
+                  "name": "3.0, 3.5"
+                },
+                {
+                  "id": "1741191625",
+                  "odds": "1.260",
+                  "header": "Under",
+                  "name": "3.5"
+                },
+                {
+                  "id": "1741191634",
+                  "odds": "1.180",
+                  "header": "Under",
+                  "name": "3.5, 4.0"
+                },
+                {
+                  "id": "1741191617",
+                  "odds": "1.100",
+                  "header": "Under",
+                  "name": "4.0"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718022094",
+          "sp": {
+            "alternative_1st_half_asian_handicap": {
+              "id": "50265",
+              "name": "Alternative 1st Half Asian Handicap",
+              "odds": [
+                {
+                  "id": "1741191592",
+                  "odds": "7.000",
+                  "header": "1",
+                  "handicap": "-1.0, -1.5"
+                },
+                {
+                  "id": "1741191593",
+                  "odds": "6.250",
+                  "header": "1",
+                  "handicap": "-1.0"
+                },
+                {
+                  "id": "1741191584",
+                  "odds": "3.450",
+                  "header": "1",
+                  "handicap": "-0.5, -1.0"
+                },
+                {
+                  "id": "1741191585",
+                  "odds": "2.600",
+                  "header": "1",
+                  "handicap": "-0.5"
+                },
+                {
+                  "id": "1741191598",
+                  "odds": "1.475",
+                  "header": "1",
+                  "handicap": "0.0"
+                },
+                {
+                  "id": "1741191600",
+                  "odds": "1.275",
+                  "header": "1",
+                  "handicap": "0.0, +0.5"
+                },
+                {
+                  "id": "1741191588",
+                  "odds": "1.200",
+                  "header": "1",
+                  "handicap": "+0.5"
+                },
+                {
+                  "id": "63528526",
+                  "odds": "1.110",
+                  "header": "1",
+                  "handicap": "+0.5, +1.0"
+                },
+                {
+                  "id": "1741191575",
+                  "odds": "1.100",
+                  "header": "2",
+                  "handicap": "+1.0, +1.5"
+                },
+                {
+                  "id": "1741191578",
+                  "odds": "1.120",
+                  "header": "2",
+                  "handicap": "+1.0"
+                },
+                {
+                  "id": "1741191596",
+                  "odds": "1.300",
+                  "header": "2",
+                  "handicap": "+0.5, +1.0"
+                },
+                {
+                  "id": "1741191587",
+                  "odds": "1.475",
+                  "header": "2",
+                  "handicap": "+0.5"
+                },
+                {
+                  "id": "1741191581",
+                  "odds": "2.600",
+                  "header": "2",
+                  "handicap": "0.0"
+                },
+                {
+                  "id": "1741191580",
+                  "odds": "3.550",
+                  "header": "2",
+                  "handicap": "0.0, -0.5"
+                },
+                {
+                  "id": "1741191590",
+                  "odds": "4.400",
+                  "header": "2",
+                  "handicap": "-0.5"
+                },
+                {
+                  "id": "63528531",
+                  "odds": "6.600",
+                  "header": "2",
+                  "handicap": "-0.5, -1.0"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021861",
+          "sp": {
+            "alternative_1st_half_goal_line": {
+              "id": "50266",
+              "name": "Alternative 1st Half Goal Line",
+              "odds": [
+                {
+                  "id": "1828937377",
+                  "odds": "1.450",
+                  "header": "Over",
+                  "name": "0.5"
+                },
+                {
+                  "id": "1741191641",
+                  "odds": "1.650",
+                  "header": "Over",
+                  "name": "0.5, 1.0"
+                },
+                {
+                  "id": "1741191645",
+                  "odds": "2.600",
+                  "header": "Over",
+                  "name": "1.0, 1.5"
+                },
+                {
+                  "id": "1741191649",
+                  "odds": "3.100",
+                  "header": "Over",
+                  "name": "1.5"
+                },
+                {
+                  "id": "1741191636",
+                  "odds": "4.150",
+                  "header": "Over",
+                  "name": "1.5, 2.0"
+                },
+                {
+                  "id": "1828937378",
+                  "odds": "2.675",
+                  "header": "Under",
+                  "name": "0.5"
+                },
+                {
+                  "id": "1741191643",
+                  "odds": "2.200",
+                  "header": "Under",
+                  "name": "0.5, 1.0"
+                },
+                {
+                  "id": "1741191646",
+                  "odds": "1.475",
+                  "header": "Under",
+                  "name": "1.0, 1.5"
+                },
+                {
+                  "id": "1741191638",
+                  "odds": "1.350",
+                  "header": "Under",
+                  "name": "1.5"
+                },
+                {
+                  "id": "1741191637",
+                  "odds": "1.220",
+                  "header": "Under",
+                  "name": "1.5, 2.0"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021729",
+          "sp": {
+            "home_team_odd_even_goals": {
+              "id": "50406",
+              "name": "Home Team Odd/Even Goals",
+              "odds": [
+                {
+                  "id": "1741190203",
+                  "odds": "1.800",
+                  "name": "Spain - Even",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190207",
+                  "odds": "1.909",
+                  "name": "Spain - Odd",
+                  "handicap": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021008",
+          "sp": {
+            "away_team_odd_even_goals": {
+              "id": "50407",
+              "name": "Away Team Odd/Even Goals",
+              "odds": [
+                {
+                  "id": "1741190878",
+                  "odds": "1.615",
+                  "name": "Croatia - Even",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190877",
+                  "odds": "2.200",
+                  "name": "Croatia - Odd",
+                  "handicap": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718022113",
+          "sp": {
+            "home_team_exact_goals": {
+              "id": "50415",
+              "name": "Home Team Exact Goals",
+              "odds": [
+                {
+                  "id": "1741190503",
+                  "odds": "4.333",
+                  "name": "Spain - 0 Goals",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190507",
+                  "odds": "2.750",
+                  "name": "Spain - 1 Goal",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190509",
+                  "odds": "3.500",
+                  "name": "Spain - 2 Goals",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190512",
+                  "odds": "4.333",
+                  "name": "Spain - 3+ Goals",
+                  "handicap": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021893",
+          "sp": {
+            "away_team_exact_goals": {
+              "id": "50416",
+              "name": "Away Team Exact Goals",
+              "odds": [
+                {
+                  "id": "1741189840",
+                  "odds": "2.375",
+                  "name": "Croatia - 0 Goals",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741189842",
+                  "odds": "2.400",
+                  "name": "Croatia - 1 Goal",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741189843",
+                  "odds": "5.000",
+                  "name": "Croatia - 2 Goals",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741189837",
+                  "odds": "13.000",
+                  "name": "Croatia - 3+ Goals",
+                  "handicap": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021768",
+          "sp": {
+            "home_team_highest_scoring_half": {
+              "id": "50417",
+              "name": "Home Team Highest Scoring Half",
+              "odds": [
+                {
+                  "id": "1741189934",
+                  "odds": "3.400",
+                  "name": "1st Half",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741189936",
+                  "odds": "2.375",
+                  "name": "2nd Half",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741189938",
+                  "odds": "2.500",
+                  "name": "Tie",
+                  "handicap": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718020968",
+          "sp": {
+            "away_team_highest_scoring_half": {
+              "id": "50418",
+              "name": "Away Team Highest Scoring Half",
+              "odds": [
+                {
+                  "id": "1741190499",
+                  "odds": "4.000",
+                  "name": "1st Half",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190491",
+                  "odds": "2.875",
+                  "name": "2nd Half",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190497",
+                  "odds": "1.909",
+                  "name": "Tie",
+                  "handicap": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021896",
+          "sp": {
+            "half_time_result_both_teams_to_score": {
+              "id": "50425",
+              "name": "Half Time Result/Both Teams To Score",
+              "odds": [
+                {
+                  "id": "1741189724",
+                  "odds": "19.000",
+                  "header": "Yes",
+                  "name": "1"
+                },
+                {
+                  "id": "1741189722",
+                  "odds": "29.000",
+                  "header": "Yes",
+                  "name": "2"
+                },
+                {
+                  "id": "1741189716",
+                  "odds": "8.000",
+                  "header": "Yes",
+                  "name": "Draw"
+                },
+                {
+                  "id": "1741189711",
+                  "odds": "2.750",
+                  "header": "No",
+                  "name": "1"
+                },
+                {
+                  "id": "1741189723",
+                  "odds": "5.000",
+                  "header": "No",
+                  "name": "2"
+                },
+                {
+                  "id": "1741189719",
+                  "odds": "2.625",
+                  "header": "No",
+                  "name": "Draw"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718020954",
+          "sp": {
+            "half_time_result_total_goals": {
+              "id": "M50426",
+              "name": "Half Time Result / Total Goals",
+              "odds": [
+                {
+                  "id": "1741190420",
+                  "odds": "6.500",
+                  "header": "Over",
+                  "name": "1.5",
+                  "team": "Spain"
+                },
+                {
+                  "id": "1741190416",
+                  "odds": "15.000",
+                  "header": "Over",
+                  "name": "1.5",
+                  "team": "Croatia"
+                },
+                {
+                  "id": "1741190409",
+                  "odds": "8.500",
+                  "header": "Over",
+                  "name": "1.5",
+                  "team": "Draw"
+                },
+                {
+                  "id": "1741190423",
+                  "odds": "3.750",
+                  "header": "Under",
+                  "name": "1.5",
+                  "team": "Spain"
+                },
+                {
+                  "id": "1741190418",
+                  "odds": "6.000",
+                  "header": "Under",
+                  "name": "1.5",
+                  "team": "Croatia"
+                },
+                {
+                  "id": "1741190413",
+                  "odds": "2.625",
+                  "header": "Under",
+                  "name": "1.5",
+                  "team": "Draw"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021316",
+          "sp": {
+            "2nd_half_goals_odd_even": {
+              "id": "50433",
+              "name": "2nd Half Goals Odd/Even",
+              "odds": [
+                {
+                  "id": "1696114298",
+                  "odds": "2.000",
+                  "name": "Odd",
+                  "handicap": ""
+                },
+                {
+                  "id": "1696114301",
+                  "odds": "1.727",
+                  "name": "Even",
+                  "handicap": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718022077",
+          "sp": {
+            "both_teams_to_score_1st_half_2nd_half": {
+              "id": "50435",
+              "name": "Both Teams to Score 1st Half - 2nd Half",
+              "odds": [
+                {
+                  "id": "1741190657",
+                  "odds": "19.000",
+                  "name": "Yes/Yes",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190663",
+                  "odds": "6.500",
+                  "name": "Yes/No",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190667",
+                  "odds": "4.000",
+                  "name": "No/Yes",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190672",
+                  "odds": "1.500",
+                  "name": "No/No",
+                  "handicap": ""
+                }
+              ]
+            }
+          }
+        },
+        {
+          "updated_at": "1718021172",
+          "sp": {
+            "winning_margin": {
+              "id": "56",
+              "name": "Winning Margin",
+              "odds": [
+                {
+                  "id": "1741190468",
+                  "odds": "3.600",
+                  "header": "1",
+                  "name": "1",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190482",
+                  "odds": "5.500",
+                  "header": "1",
+                  "name": "2",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190472",
+                  "odds": "11.000",
+                  "header": "1",
+                  "name": "3",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190474",
+                  "odds": "19.000",
+                  "header": "1",
+                  "name": "4+",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190485",
+                  "odds": "6.000",
+                  "header": "2",
+                  "name": "1",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190487",
+                  "odds": "15.000",
+                  "header": "2",
+                  "name": "2",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190476",
+                  "odds": "41.000",
+                  "header": "2",
+                  "name": "3",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190489",
+                  "odds": "81.000",
+                  "header": "2",
+                  "name": "4+",
+                  "handicap": ""
+                },
+                {
+                  "id": "1741190478",
+                  "odds": "4.750",
+                  "name": "Score Draw"
+                },
+                {
+                  "id": "1741190480",
+                  "odds": "8.500",
+                  "name": "No Goal"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "schedule": {
+        "updated_at": "1718022137",
+        "key": "#AC#B1#C1#D1002#E97746720#G40#H^1#",
+        "sp": {
+          "main": [
+            {
+              "id": "1696083582",
+              "odds": "1.900",
+              "name": "1"
+            },
+            {
+              "id": "1696083584",
+              "odds": "3.400",
+              "name": "X"
+            },
+            {
+              "id": "1696083586",
+              "odds": "4.500",
+              "name": "2"
+            }
+          ]
+        }
+      },
+      "specials": {
+        "updated_at": "1718021821",
+        "key": "#AC#B1#C1#D8#E147543881#F3#I9#",
+        "sp": {
+          "specials": {
+            "id": "10224",
+            "name": "Specials",
+            "odds": [
+              {
+                "id": "1741190841",
+                "odds": "9.000",
+                "header": "1",
+                "name": "To Win From Behind"
+              },
+              {
+                "id": "1741190030",
+                "odds": "3.000",
+                "header": "1",
+                "name": "To Win to Nil"
+              },
+              {
+                "id": "1741190218",
+                "odds": "1.500",
+                "header": "1",
+                "name": "To Win Either Half"
+              },
+              {
+                "id": "1741190884",
+                "odds": "5.500",
+                "header": "1",
+                "name": "To Win Both Halves"
+              },
+              {
+                "id": "1741189924",
+                "odds": "3.250",
+                "header": "1",
+                "name": "To Score in Both Halves"
+              },
+              {
+                "id": "1741190843",
+                "odds": "17.000",
+                "header": "2",
+                "name": "To Win From Behind"
+              },
+              {
+                "id": "1741190035",
+                "odds": "7.000",
+                "header": "2",
+                "name": "To Win to Nil"
+              },
+              {
+                "id": "1741190221",
+                "odds": "2.500",
+                "header": "2",
+                "name": "To Win Either Half"
+              },
+              {
+                "id": "1741190885",
+                "odds": "19.000",
+                "header": "2",
+                "name": "To Win Both Halves"
+              },
+              {
+                "id": "1741189926",
+                "odds": "6.000",
+                "header": "2",
+                "name": "To Score in Both Halves"
+              }
+            ]
+          },
+          "to_score_in_half": {
+            "id": "50419",
+            "name": "To Score In Half",
+            "odds": [
+              {
+                "id": "1741189739",
+                "odds": "1.909",
+                "header": "Yes",
+                "name": "1st Half",
+                "team": "1"
+              },
+              {
+                "id": "1741190778",
+                "odds": "1.615",
+                "header": "Yes",
+                "name": "2nd Half",
+                "team": "1"
+              },
+              {
+                "id": "1741189741",
+                "odds": "1.800",
+                "header": "No",
+                "name": "1st Half",
+                "team": "1"
+              },
+              {
+                "id": "1741190782",
+                "odds": "2.200",
+                "header": "No",
+                "name": "2nd Half",
+                "team": "1"
+              },
+              {
+                "id": "1741190124",
+                "odds": "2.750",
+                "header": "Yes",
+                "name": "1st Half",
+                "team": "2"
+              },
+              {
+                "id": "1741189783",
+                "odds": "2.200",
+                "header": "Yes",
+                "name": "2nd Half",
+                "team": "2"
+              },
+              {
+                "id": "1741190128",
+                "odds": "1.400",
+                "header": "No",
+                "name": "1st Half",
+                "team": "2"
+              },
+              {
+                "id": "1741189784",
+                "odds": "1.615",
+                "header": "No",
+                "name": "2nd Half",
+                "team": "2"
+              }
+            ]
+          },
+          "to_score_a_penalty": {
+            "id": "10229",
+            "name": "To Score a Penalty",
+            "odds": [
+              {
+                "id": "1828937022",
+                "odds": "6.500",
+                "name": "Spain to score a penalty"
+              },
+              {
+                "id": "1828937033",
+                "odds": "10.000",
+                "name": "Croatia to score a penalty"
+              }
+            ]
+          },
+          "to_miss_a_penalty": {
+            "id": "10230",
+            "name": "To Miss a Penalty",
+            "odds": [
+              {
+                "id": "1828937040",
+                "odds": "19.000",
+                "name": "Spain to miss a penalty"
+              },
+              {
+                "id": "1828937052",
+                "odds": "26.000",
+                "name": "Croatia to miss a penalty"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

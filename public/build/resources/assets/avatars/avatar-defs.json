@@ -1,0 +1,63 @@
+{
+  "avatarlist": [
+    {
+      "name":           "Samuel",
+      "image_default":  "Samuel.png",
+      "logic":          "Casual-Normal"
+    },
+
+    {
+      "name":           "Maria",
+      "image_default":  "Maria.png",
+      "logic":          "Casual-Normal"
+    },
+
+    {
+      "name":           "David",
+      "image_default":  "David.png",
+      "logic":          "Casual-Normal"
+    },
+
+    {
+      "name":           "Gabriel",
+      "image_default":  "Gabriel.png",
+      "logic":          "Casual-Normal"
+    },
+
+    {
+      "name":           "Isabella",
+      "image_default":  "Isabella.png",
+      "logic":          "Casual-Normal"
+    },
+
+    {
+      "name":           "Emma",
+      "image_default":  "Emma.png",
+      "logic":          "Casual-Normal"
+    },
+	
+	{
+      "name":           "Eva",
+      "image_default":  "Eva.png",
+      "logic":          "Casual-Normal"
+    },
+	
+	{
+      "name":           "Lara",
+      "image_default":  "Lara.png",
+      "logic":          "Casual-Normal"
+    },
+	
+	{
+      "name":           "Milo",
+      "image_default":  "Milo.png",
+      "logic":          "Casual-Normal"
+    },
+	
+	{
+      "name":           "Victoria",
+      "image_default":  "Victoria.png",
+      "logic":          "Casual-Normal"
+    }
+  ]
+}
